@@ -1,0 +1,22 @@
+{
+  "name": "hypixel-bot-by-noah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Nøah#9561 || https://discord.gg/UnDpr2kEpB",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "hypixeljs": "^1.4.0",
+    "mojangjs": "^2.0.3",
+    "moment": "^2.27.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

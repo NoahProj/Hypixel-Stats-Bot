@@ -1,0 +1,11 @@
+{
+    "color": "#CC8899",
+    "token": "Discord BOT TOKEN",
+    "version": "1.0.0",
+    "key": "HYPIXEL API KEY",
+    "footer": {"text": "Bot Made By Nøah#9561 || https://discord.gg/UnDpr2kEpB", "icon": "FOOTERIMAGE HERE"},
+    "defaultPrefix": "!",
+    "assets": {
+    
+    }
+}
