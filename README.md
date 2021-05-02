@@ -1,15 +1,18 @@
 # Hypixel-Stats-Bot
 Stats bot for Hypixel | More updates coming soon!
 
+---
+
+# Requirement:
+Nodejs (https://nodejs.org/en/)
+
 # Installation:
-npm i
-or
-npm rebuild
+npm i or npm rebuild
 
 # Start up:
-node .
-or 
-node index.js
+node . or node index.js
+
+---
 
 ### Hi there, I am Nøah 👋
 
