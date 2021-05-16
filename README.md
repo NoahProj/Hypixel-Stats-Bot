@@ -1,6 +1,6 @@
 # Hypixel-Stats-Bot
 Stats bot for Hypixel | More updates coming soon!
-
+*More Updates are on Its Way!*
 ---
 
 # Requirement:
